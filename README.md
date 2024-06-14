@@ -1,10 +1,10 @@
 # Ememobong O. Umoren - Data Analysis Portfolio
-🌟 Data Analysis Portfolio: Showcasing insightful projects, compelling visualizations, and real-world data insights. Let's enter into the world of data with my diverse collection of analytical work! 📊✨
+🌟 **Data Analysis Portfolio:** Showcasing insightful projects, compelling visualizations, and real-world data insights. Let's enter into the world of data with my diverse collection of analytical work! 📊✨
 
 ## About
-Hi, I'm Emem! 🎓 I'm a final year Statistics student at the University of Ibadan, with a passion for transforming data into actionable insights. As a data analyst, I've honed my skills through various projects and real-world applications.
+Hi, I'm Emem! A final year Statistics student at the University of Ibadan 🎓 , with a passion for transforming data into actionable insights. As a data analyst, I've honed my skills through various projects and real-world applications.
 
-I had the privilege of leading the Data Analytics team at the Google Developer Student Club at my institution, where I collaborated with peers to tackle complex data challenges and create impactful solutions.
+In my third year, I had the privilege of leading the Data Analytics team at the Google Developer Student Club at my institution, where I collaborated with peers to tackle complex data challenges and create impactful solutions.
 
 This portfolio showcases my journey in the data world, featuring projects that highlight my proficiency in statistical analysis, data visualization, and data-driven storytelling. Dive in to explore my work and see how data can be leveraged to make informed decisions!
 
@@ -13,7 +13,7 @@ This portfolio showcases my journey in the data world, featuring projects that h
 * [Portfolio Projects](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#portfolio-projects)
     + [Call-Center Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#1-call-center-analysis)
     + [Messy Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#2-messy-data-cleaning)
-    + [PizzaSales Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#3-pizzasales-analysis)
+    + [Pizza Sales Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#3-pizzasales-analysis)
     + [FIFA'21 Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#4-fifa21-data-cleaning)
     + [Olist Business Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#5-olist-business-data-cleaning)
     + [Bikestores Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#6-bikestores-analysis)
@@ -56,7 +56,7 @@ By leveraging cutting-edge technology, we can access larger and more diverse dat
 
 ### **3. PizzaSales Analysis**
 
-Data Analysis: Analyze the company data to identify customers needs, behaviour patterns, and preferences.  We would also identify fast and slow-moving products which will help us reduce stock outs  and optimize warehouse operations. 
+**Data Analysis:** Analyze the company data to identify customers needs, behaviour patterns, and preferences.  We would also identify fast and slow-moving products which will help us reduce stock outs  and optimize warehouse operations. 
 
 + **View Code:** [PizzaSales_Analysis](https://github.com/Emem-Data/PizzaSales_Analysis)
 
@@ -110,9 +110,9 @@ In this project, I followed a tutorial from a YouTube channel to analyze data fr
 ## Certifications
 This is a section to showcase my professional certifications, demonstrating my commitment to continuous learning in data analysis and related technologies.
 
-[Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1EotCm2u-HqjRClN1YQ9xYHdLahIw8Tux/view?usp=sharing)  [ Coursera - Google Data Analytics Professional Certificate](Mar 2023)
+[Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1EotCm2u-HqjRClN1YQ9xYHdLahIw8Tux/view?usp=sharing)  [ Coursera - Google Data Analytics Professional Certificate ](Mar 2023)
 
-[Data Science Bootcamp](https://drive.google.com/file/d/11bFZ9lC7dVjCU1xKq393d32TdfZNLQtF/view?usp=sharing) [ Women Techster Bootcamp](February 2022)
+[Data Science Bootcamp](https://drive.google.com/file/d/11bFZ9lC7dVjCU1xKq393d32TdfZNLQtF/view?usp=sharing) [ Women Techster Bootcamp ](February 2022)
 
 
 ## Skillset
