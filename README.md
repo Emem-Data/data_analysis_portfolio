@@ -17,10 +17,10 @@ This portfolio showcases my journey in the data world, featuring projects that h
     + [FIFA'21 Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#4-fifa21-data-cleaning)
     + [Olist Business Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#5-olist-business-data-cleaning)
     + [Bikestores Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#6-bikestores-analysis)
-* Certifications
-* Skillset
-* Contacts
-* End Note
+* [Certifications](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#certifications)
+* [Skillset](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#skillset)
+* [Contacts](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#contacts)
+* [End Note](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#end-note)
 
 
 
