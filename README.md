@@ -12,13 +12,15 @@ This portfolio showcases my journey in the data world, featuring projects that h
 * [About](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#about)
 * [Portfolio Projects](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#portfolio-projects)
     + [Call-Center Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#1-call-center-analysis)
-    + [Messy Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#2-messy-data-analysis)
+    + [Messy Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#2-messy-data-cleaning)
     + [PizzaSales Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#3-pizzasales-analysis)
     + [FIFA'21 Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#4-fifa21-data-cleaning)
     + [Olist Business Data Cleaning](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#5-olist-business-data-cleaning)
     + [Bikestores Analysis](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#6-bikestores-analysis)
 * Certifications
+* Skillset
 * Contacts
+* End Note
 
 
 
@@ -103,3 +105,38 @@ In this project, I followed a tutorial from a YouTube channel to analyze data fr
 + **Technology:** MySQL, Microsoft Excel
 
 + **Skills:** Data Assessment, Data Cleaning, Query Writing, Data Verification, Data Normalization, Data Analysis, Pivot Tables, Analytical Dashboard
+
+
+## Certifications
+This is a section to showcase my professional certifications, demonstrating my commitment to continuous learning in data analysis and related technologies.
+
+[Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1EotCm2u-HqjRClN1YQ9xYHdLahIw8Tux/view?usp=sharing)  [ Coursera - Google Data Analytics Professional Certificate](Mar 2023)
+
+[Data Science Bootcamp](https://drive.google.com/file/d/11bFZ9lC7dVjCU1xKq393d32TdfZNLQtF/view?usp=sharing) [ Women Techster Bootcamp](February 2022)
+
+
+## Skillset
+I possess a diverse and robust set of skills that enable me to tackle various data analysis challenges effectively:
+
+* **Excel:** Advanced proficiency in data manipulation, pivot tables, VLOOKUP, and creating dynamic dashboards.
+
+* **SQL:** Expertise in Google Big Query, Microsoft SQL Server, and MySQL for data extraction, transformation, and loading (ETL), as well as complex query writing and database management.
+
+* **Power BI:** Skilled in creating interactive and insightful data visualizations and dashboards to drive business decisions.
+
+* **Python:** Proficient in data analysis libraries such as Pandas and NumPy, as well as data visualization with Matplotlib and Seaborn.
+
+
+
+## Contacts
+* LinkedIn: [@ememobong-umoren-olushola](https://www.linkedin.com/in/ememobong-umoren-olushola/)
+* Twitter: [@ftechbro](https://twitter.com/ftechbro)
+* E-mail: ememobongumoren2@gmail.com
+
+
+
+## End Note
+
+Thank you for visiting my data analysis portfolio. I am passionate about leveraging data to uncover meaningful insights and drive informed decisions. Feel free to explore my projects and certifications to see how I can contribute to data-driven solutions. Let's connect and discuss how we can collaborate to achieve your data analysis goals!
+
+
