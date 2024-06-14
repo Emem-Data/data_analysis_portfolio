@@ -23,11 +23,11 @@ Imagine you're the manager of a busy call center for a large telecommunications 
 
 That's where this analysis comes in. Over the course of a few nights – Actually just two😉 – I delved into the call center dataset to uncover key insights and identify opportunities for improvement. I got the dataset from a #DataChallenge WhatsApp group and upon downloading the dataset, I wore my detective mask and began to check if I could identify patterns or trends in the data that would be worthy of investigation.
 
-Code: [Call-Center-Analysis](https://github.com/Emem-Data/Call-Center-Analysis)
++ **View Code:** [Call-Center-Analysis](https://github.com/Emem-Data/Call-Center-Analysis)
 
-Technology: Microsoft Excel.
++ **Technology:** Microsoft Excel.
 
-Skills: Explorative Data Analysis, Data Insights, Analytical Dashboard, Documentation and Reporting.
++ **Skills:** Explorative Data Analysis, Data Insights, Analytical Dashboard, Documentation and Reporting.
 
 
 ### **2. Messy Data Analysis**
@@ -36,32 +36,32 @@ Technology is rapidly evolving and changing the way we work with data. One examp
 
 By leveraging cutting-edge technology, we can access larger and more diverse datasets than ever before, and use them to uncover new insights and trends.
 
-Code: [Messy Data Analysis](https://github.com/Emem-Data/MessyData2)
++ **View Code:** [Messy Data Analysis](https://github.com/Emem-Data/MessyData2)
 
-Technology: ChatGPT, Microsoft Sql Server.
++ **Technology:** ChatGPT, Microsoft Sql Server.
 
-Skills: Data Cleaning and Transformation, Query Writing, Data Integrity and Validation, Documentation and Reporting.
++ **Skills:** Data Cleaning and Transformation, Query Writing, Data Integrity and Validation, Documentation and Reporting.
 
 
 ### **3. PizzaSales Analysis**
 
 Data Analysis: Analyze the company data to identify customers needs, behaviour patterns, and preferences.  We would also identify fast and slow-moving products which will help us reduce stock outs  and optimize warehouse operations. 
 
-Code: [PizzaSales_Analysis](https://github.com/Emem-Data/PizzaSales_Analysis)
++ **View Code:** [PizzaSales_Analysis](https://github.com/Emem-Data/PizzaSales_Analysis)
 
-Technology: Microsoft Excel, Microsoft PowerPoint.
++ **Technology:** Microsoft Excel, Microsoft PowerPoint.
 
-Skills: Data Analysis, Pivot tables and charts, Data Insights, Analytical Dashboard, Documentation and Reporting, Documentation and Reporting, Presentation.
++ **Skills:** Data Analysis, Pivot tables and charts, Data Insights, Analytical Dashboard, Documentation and Reporting, Documentation and Reporting, Presentation.
 
 
 ### **4. FIFA'21 Data Cleaning** 
 Football is the most popular sport in the world and FIFA is the organization responsible for organizing the most prestigious football tournament, the FIFA World Cup. In this project, we will explore the FIFA 2021 dataset, which contains detailed information on the players and teams featured in the game. The dataset provides a wealth of information on player attributes such as speed, agility, shooting accuracy, and more. However, like most real-world datasets, the FIFA 2021 dataset is far from perfect. Our goal in this project is to clean and prepare the dataset for further analysis and modelling. Through the data-cleaning process, we will discover patterns and insights that can inform future game development and player performance analysis. This project is a great opportunity to showcase the importance of data cleaning and preparation in data analysis, especially when dealing with large, complex datasets.
 
-Code: [Fifa21_dataCleaning](https://github.com/Emem-Data/Fifa21_dataCleaning)
++ **View Code:** [Fifa21_dataCleaning](https://github.com/Emem-Data/Fifa21_dataCleaning)
 
-Technology: Microsoft Excel
++ **Technology:** Microsoft Excel
 
-Skills: Data Assessment, Data Cleaning, Data Verification, Data Normalization, Documentation and Reporting
++ **Skills:** Data Assessment, Data Cleaning, Data Verification, Data Normalization, Documentation and Reporting
 
 
 ### **5. Olist Business Data Cleaning** 
@@ -72,11 +72,11 @@ The dataset used for our analysis consists of data from orders placed between Ja
 
 I chose Azure Data Studio as my editor for this task. After adding the SQL Server Import extension, I set up a new database and used the extension to bring in my data.
 
-Code: [Olist_Business](https://github.com/Emem-Data/Olist_Business)
++ **View Code:** [Olist_Business](https://github.com/Emem-Data/Olist_Business)
 
-Technology: Azure Data Studio, Microsoft SQL Server, Microsoft Excel
++ **Technology:** Azure Data Studio, Microsoft SQL Server, Microsoft Excel
 
-Skills: Data Assessment, Data Cleaning and Transformation, Scripting and Automation, Query Writing, Data Verification, Data Normalization, Documentation and Reporting
++ **Skills:** Data Assessment, Data Cleaning and Transformation, Scripting and Automation, Query Writing, Data Verification, Data Normalization, Documentation and Reporting
 
 
 ### **6. Bikestores Analysis**
@@ -89,16 +89,8 @@ In this project, I followed a tutorial from a YouTube channel to analyze data fr
 
 3. Dashboard Creation: Utilizing Excel's powerful features, I created an insightful dashboard to visualize key metrics and trends.
 
++ **View Code:** [Bikestores-Analysis](https://github.com/Emem-Data/Bikestores-Analysis)
 
-Code: [Bikestores-Analysis](https://github.com/Emem-Data/Bikestores-Analysis)
++ **Technology:** MySQL, Microsoft Excel
 
-Technology: MySQL, Microsoft Excel
-
-Skills: Data Assessment, Data Cleaning, Query Writing, Data Verification, Data Normalization, Data Analysis, Pivot Tables, Analytical Dashboard
-
-
-
-
-
-
-
++ **Skills:** Data Assessment, Data Cleaning, Query Writing, Data Verification, Data Normalization, Data Analysis, Pivot Tables, Analytical Dashboard
