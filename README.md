@@ -6,7 +6,7 @@ Hi, I'm Emem! A final year Statistics student at the University of Ibadan 🎓 ,
 
 In my third year, I had the privilege of leading the Data Analytics team at the Google Developer Student Club at my institution, where I collaborated with peers to tackle complex data challenges and create impactful solutions.
 
-This portfolio showcases my journey in the data world, featuring projects that highlight my proficiency in statistical analysis, data visualization, and data-driven storytelling. Dive in to explore my work and see how data can be leveraged to make informed decisions!
+This portfolio showcases my journey in the data world, featuring projects that highlight my proficiency in statistical analysis, data visualization, and data-driven storytelling. Check out my CV [here](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/EMEMOBONG%20UMOREN%20RESUME.pdf) Dive in to explore my work and see how data can be leveraged to make informed decisions!
 
 ## Table of content
 * [About](https://github.com/Emem-Data/data_analysis_portfolio/blob/main/README.md#about)
